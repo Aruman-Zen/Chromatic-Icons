@@ -1,0 +1,11 @@
+{
+    "materials": {
+        "zanite": 0,
+        "gravitite": 1,
+        "neptune": 2,
+        "valkyrie": 3,
+        "phoenix": 4,
+        "obsidian": 5,
+        "sentry": 6
+    }
+}

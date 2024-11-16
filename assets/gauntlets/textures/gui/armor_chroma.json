@@ -1,0 +1,8 @@
+{
+    "items": {
+        "iron_gauntlet": 0,
+        "gold_gauntlet": 1,
+        "diamond_gauntlet": 2,
+        "netherite_gauntlet": 3
+    }
+}

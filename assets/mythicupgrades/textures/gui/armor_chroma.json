@@ -1,0 +1,32 @@
+{
+    "items": {
+        "ruby_helmet": 0,
+        "ruby_chestplate": 0,
+        "ruby_leggings": 0,
+        "ruby_boots": 0,
+        "topaz_helmet": 1,
+        "topaz_chestplate": 1,
+        "topaz_leggings": 1,
+        "topaz_boots": 1,
+        "peridot_helmet": 2,
+        "peridot_chestplate": 2,
+        "peridot_leggings": 2,
+        "peridot_boots": 2,
+        "jade_helmet": 3,
+        "jade_chestplate": 3,
+        "jade_leggings": 3,
+        "jade_boots": 3,
+        "aquamarine_helmet": 4,
+        "aquamarine_chestplate": 4,
+        "aquamarine_leggings": 4,
+        "aquamarine_boots": 4,
+        "sapphire_helmet": 5,
+        "sapphire_chestplate": 5,
+        "sapphire_leggings": 5,
+        "sapphire_boots": 5,
+        "ametrine_helmet": 6,
+        "ametrine_chestplate": 6,
+        "ametrine_leggings": 6,
+        "ametrine_boots": 6
+    }
+}

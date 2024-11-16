@@ -1,0 +1,8 @@
+{
+    "materials": {
+        "netherite_iron": 0,
+        "netherite_gold": 1,
+        "netherite_emerald": 2,
+        "netherite_diamond": 3
+    }
+}
