@@ -1,0 +1,15 @@
+{
+    "materials": {
+        "bronze": 0,
+        "ruby": 1,
+        "sapphire": 2,
+        "peridot": 3,
+        "silver": 4,
+        "steel": 5,
+        "quantum": 6,
+        "nano": 7,
+        "lithium_batpack": 8,
+        "lapotronic_orbpack": 9,
+        "cloaking_device": 10
+    }
+}
