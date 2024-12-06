@@ -23,6 +23,9 @@ The addon purpose is to add support to a big variety of modded armors (and modde
 7. [Pure Quartz Tools](https://modrinth.com/mod/purequartztools)
 8. [Scorchful](https://modrinth.com/mod/scorchful)
 9. [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
+### 2.1
+1. [Galosphere](https://modrinth.com/mod/galosphere)
+2. [Mutant Monsters](https://modrinth.com/mod/mutant-monsters)
 
 ## Ask me to add more mod support!
 If you have any problems/want me to change or add more icons, you can send me a suggestion in [my github](https://github.com/Aruman-Zen/Chromatic-Icons/issues)!
