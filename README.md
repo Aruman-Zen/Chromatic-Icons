@@ -1,6 +1,6 @@
 ## This resource pack is an addon for [Armor Chroma](https://modrinth.com/mod/armor-chroma-for-fabric) so if you don't have the mod nothing will happen!
 
-The addon purpose is to add support to a big variety of modded armors (and modded items if need be)
+The addon purpose is to add icon support to a big variety of modded armors (and modded items if need be)
 
 ## List of supported mods (Expect this list to grow as updates come out):
 ### 1.0
@@ -26,6 +26,16 @@ The addon purpose is to add support to a big variety of modded armors (and modde
 ### 2.1
 1. [Galosphere](https://modrinth.com/mod/galosphere)
 2. [Mutant Monsters](https://modrinth.com/mod/mutant-monsters)
+### 3.0
+1. [Amethyst Equipment](https://modrinth.com/mod/amethyst-equipment)
+2. [Bone Equipment](https://modrinth.com/mod/bone-equipment)
+3. [Create Fabric](https://modrinth.com/mod/create-fabric)
+4. [Emerald Equipment](https://modrinth.com/mod/emerald-equipment)
+5. [Exline's Copper Equipment](https://modrinth.com/mod/exlines-copper-equipment)
+6. [Immersive Ores](https://modrinth.com/mod/immersive-ores)
+7. [Obsidian Equipment](https://modrinth.com/mod/obsidian-equipment)
+8. [Useful Slime](https://modrinth.com/mod/useful-slime)
+9. [Wooden Armor (+ Stone Armor)](https://modrinth.com/mod/woodenarmor)
 
 ## Ask me to add more mod support!
-If you have any problems/want me to change or add more icons, you can send me a suggestion in [my github](https://github.com/Aruman-Zen/Chromatic-Icons/issues)!
+If you have any issues/want me to change or add more icons, you can send me a suggestion in [my github](https://github.com/Aruman-Zen/Chromatic-Icons/issues)!
