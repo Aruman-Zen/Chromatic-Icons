@@ -1,0 +1,16 @@
+{
+    "materials": {
+        "oak": 0,
+        "birch": 1,
+        "spruce": 2,
+        "dark_oak": 3,
+        "jungle": 4,
+        "acacia": 5,
+        "mangrove": 6,
+        "cherry": 7,
+        "bamboo": 8,
+        "crimson": 9,
+        "warped": 10,
+        "stone": 11
+    }
+}
