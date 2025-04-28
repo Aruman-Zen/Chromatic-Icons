@@ -8,6 +8,9 @@
         "turtle": 5,
         "netherite": 6
     },
+    "items": {
+        "elytra": 7
+    },
     "special": {
         "default": 3,
         "leadingMask": -1,
