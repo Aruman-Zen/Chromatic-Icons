@@ -38,6 +38,10 @@ The addon purpose is to add icon support to a big variety of modded armors (and 
 9. [Wooden Armor (+ Stone Armor)](https://modrinth.com/mod/woodenarmor)
 ### 3.1
 1. Minecraft Elytra
+### 3.2
+1. [You've Goat to be Kidding Me](https://modrinth.com/mod/goated)
+2. [Immersive Armors](https://modrinth.com/mod/immersive-armors)
+3. [Pure Amethyst Tools](https://modrinth.com/mod/pureamethysttools)
 
 ## Ask me to add more mod support!
 If you have any issues/want me to change or add more icons, you can send me a suggestion in [my github](https://github.com/Aruman-Zen/Chromatic-Icons/issues)!
