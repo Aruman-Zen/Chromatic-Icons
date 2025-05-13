@@ -1,0 +1,14 @@
+{
+    "materials": {
+        "bone": 0,
+        "wither": 1,
+        "warrior": 2,
+        "heavy": 3,
+        "robe": 4,
+        "slime": 5,
+        "divine": 6,
+        "prismarine": 7,
+        "wooden": 8,
+        "steampunk": 9
+    }
+}
