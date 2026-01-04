@@ -1,0 +1,13 @@
+{
+    "materials": {
+        "aethersent": 0,
+		"thermal_springstone": 1,
+        "glacite": 2,
+        "starlit_diamond": 3,
+        "deepsilver": 4,
+        "amaramber": 5,
+        "alchemist": 6,
+        "air_sac": 7
+
+    }
+}

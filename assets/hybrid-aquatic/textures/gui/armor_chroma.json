@@ -1,0 +1,10 @@
+{
+    "materials": {
+        "diving": 0,
+        "seashell": 1,
+        "turtle": 2,
+        "manglerfish": 3,
+        "eel": 4,
+        "moon_jelly": 5
+    }
+}

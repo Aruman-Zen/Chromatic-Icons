@@ -42,6 +42,12 @@ The addon purpose is to add icon support to a big variety of modded armors (and 
 1. [You've Goat to be Kidding Me](https://modrinth.com/mod/goated)
 2. [Immersive Armors](https://modrinth.com/mod/immersive-armors)
 3. [Pure Amethyst Tools](https://modrinth.com/mod/pureamethysttools)
+### 4.0
+1. [AdventureZ](https://modrinth.com/mod/adventurez)
+2. [Eternal Starlight](https://modrinth.com/mod/eternal-starlight)
+3. [Hybrid Aquatic](https://modrinth.com/mod/hybrid-aquatic)
+4. [Oblivion](https://modrinth.com/mod/theoblivion)
+5. [Progression Reborn](https://modrinth.com/mod/progression-reborn)
 
 ## Ask me to add more mod support!
 If you have any issues/want me to change or add more icons, you can send me a suggestion in [my github](https://github.com/Aruman-Zen/Chromatic-Icons/issues)!
